@@ -1,3 +1,54 @@
+# Project2GA : C.R.U.D.
+
+### Until: The App for All the Things That Haven't Happened Yet
+
+Have you ever wanted to keep track of all the things that you said you were going to do. Now is your chance. Until is an easy to use app that allows you to enter upcoming events with a time stamp of when you enter them. Version 2.0 will have features that allow you to countdown till your event is scheduled to happen. 
+
+###WireFrames:
+
+The planning started early: 
+
+Utilizing wireframes I was able to figure out what the true MVP of the Wack Jack project would be at this level of coding knowledge.
+
+    Tier 1 MVP :
+    Read
+
+    Tier 1 MVP Achieved :
+    Create, Read, Update, Delete
+    
+    Utilizing the previous lessons from GA I was able to go through and create an app similar to our todo assignment.
+
+##Images of WireFrames attached via Issue.
+
+Until_Unit2Project_Kyla_Massey.pdf
+
+![](https://raw.githubusercontent.com/kylamassey/Project1GA/master/WackJackDiag1.jpg)
+![](https://raw.githubusercontent.com/kylamassey/Project1GA/master/WackJackWF1.jpg)
+![](https://raw.githubusercontent.com/kylamassey/Project1GA/master/WackJackWFwJoe.jpg)
+![](https://raw.githubusercontent.com/kylamassey/Project1GA/master/WJwirefinaldiag.jpg)
+![](https://raw.githubusercontent.com/kylamassey/Project1GA/master/WackJackWFfinal.jpg)
+
+
+###Technology Used:
+
+    sublime
+    React App
+    FireBase
+    moment.js
+    axios
+    css
+    html
+    JSX
+    Javascript
+    
+
+
+### ISSUES AND SETBACKS:
+
+Time management and curriculum comprehension and retention. 
+
+### OTHER TECHNOLOGIES:
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
