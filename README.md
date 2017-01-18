@@ -6,7 +6,7 @@ Have you ever wanted to keep track of all the things that you said you were goin
 
 ###WireFrames:
 
-The planning started early: 
+
 
 Utilizing wireframes I was able to figure out what the true MVP of the Wack Jack project would be at this level of coding knowledge.
 
