@@ -20,13 +20,6 @@ Utilizing wireframes I was able to figure out what the true MVP of the Wack Jack
 
 ##Images of WireFrames attached via Issue.
 
-Until_Unit2Project_Kyla_Massey.pdf
-
-![](https://raw.githubusercontent.com/kylamassey/Project1GA/master/WackJackDiag1.jpg)
-![](https://raw.githubusercontent.com/kylamassey/Project1GA/master/WackJackWF1.jpg)
-![](https://raw.githubusercontent.com/kylamassey/Project1GA/master/WackJackWFwJoe.jpg)
-![](https://raw.githubusercontent.com/kylamassey/Project1GA/master/WJwirefinaldiag.jpg)
-![](https://raw.githubusercontent.com/kylamassey/Project1GA/master/WackJackWFfinal.jpg)
 
 
 ###Technology Used:
